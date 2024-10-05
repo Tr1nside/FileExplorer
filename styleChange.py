@@ -106,11 +106,6 @@ color: while;
 background-color:  rgb(38, 41, 42);
 }
 
-QWidget#MainWindow { 
-border: none; 
-background-color:  rgb(38, 41, 42);
-}
-
 QLineEdit {
 padding-left: 10px;
 border-radius: 10px;

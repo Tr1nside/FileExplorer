@@ -40,7 +40,6 @@ class MainClass(QWidget):
         self.setWindowIcon(QIcon("ui/icons/icon.ico"))
         self.setWindowTitle("File explorer")
 
-        self.setWindowFlags(Qt.WindowType.FramelessWindowHint)
 
         # Получаем список дисков с помощью windows api
         drives = win32api.GetLogicalDriveStrings()
