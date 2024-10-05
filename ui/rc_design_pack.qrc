@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/comp.ico</file>
+    <file>icons/arrowBack.png</file>
+    <file>icons/arrowBackOff.png</file>
+    <file>icons/arrowFor.png</file>
+    <file>icons/arrowForOff.png</file>
+    <file>icons/arrowUps.png</file>
+    <file>icons/arrowUpsOff.png</file>
+    <file>icons/desctop.ico</file>
+    <file>icons/desktop.ini</file>
+    <file>icons/disk.ico</file>
+    <file>icons/docs.ico</file>
+    <file>icons/download.ico</file>
+    <file>icons/download2.ico</file>
+    <file>icons/explorer.ico</file>
+    <file>icons/music.ico</file>
+    <file>icons/music2.ico</file>
+    <file>icons/Pictures.ico</file>
+    <file>icons/SecurityAndMaintenance.ico</file>
+    <file>icons/SecurityAndMaintenance_Alert.ico</file>
+    <file>icons/sysdisk.ico</file>
+    <file>icons/video.ico</file>
+  </qresource>
+</RCC>
